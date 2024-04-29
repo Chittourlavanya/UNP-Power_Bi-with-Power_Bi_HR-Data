@@ -5,4 +5,4 @@ Description : HR data in Power BI refers to the process of analyzing and visuali
 
 PDF File : https://drive.google.com/file/d/1QgLevcJ4ea019dhPtbT7oXaFelt73rF6/view?usp=sharing
 PBIX File : https://drive.google.com/file/d/12g2R0mVWrNlu6mZ_GAM1pN-QuO-FytVp/view?usp=sharing
-Presentation File : https://drive.google.com/file/d/1pPg1r3SA3pWbPoFCXWauas5Ajdw7T3cF/view?usp=sharing
+Presentation File : 
